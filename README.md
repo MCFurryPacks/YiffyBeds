@@ -1,5 +1,5 @@
 # Yiffy Beds
-Replaces the default bed textures with yiff.
+Replaces the default bed textures with yiff. Supports 1.12+
 
 ### Sources
 * [black.png](https://e621.net/posts/520280)
