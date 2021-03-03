@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 3,
+		"description": "Replaces bed textures with furry porn. 1.12 Edition",
+		"version": {
+			"git": "1.0.2",
+			"mc": "1.12"
+		}
+	}
+}
