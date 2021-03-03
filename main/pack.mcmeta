@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 6,
-    "description": "Replaces bed textures with furry porn."
+    "description": "Replaces bed textures with furry porn.",
+    "git_version": "1.0.1"
   }
 }
